@@ -1,0 +1,40 @@
+info:
+  namespace: 3dfantasyweaponscit
+  dictionary-lang: "es"
+dictionary:
+  display-name-3dfantasyweaponscit: Armas de Fantasía
+  display-name-3dmysticstavescit: Bastones Místicos
+  display-name-azure_greataxe: Hacha Granate Azur
+  display-name-skeleton_axe: Hacha de Esqueleto
+  display-name-treacherous_axe: Hacha Traicionera
+  display-name-azure_shortsword: Espada Corta Azur
+  display-name-claymore: Claymore
+  display-name-crimson_cleaver: Triturador Carmesí
+  display-name-treacherous_cleaver: Triturador Traicionero
+  display-name-treacherous_bludgeon: Mazo Traicionero
+  display-name-wooden_bludgeon: Mazo de Madera
+  display-name-iron_mace: Maza de Hierro
+  display-name-vindicator: Vindicador
+  display-name-azure_sabre: Sable Azur
+  display-name-bloody_vengeance_blade: Hoja de Venganza Sangrienta
+  display-name-piercer: Punzante
+  display-name-runic_piercer: Punzante Rúnico
+  display-name-iron_polearm: Arma de Asta de Hierro
+  display-name-azure_scythe: Guadaña Azur
+  display-name-azure_greatsword: Espada Grande Azur
+  display-name-dragon_sword: Espada de Dragón
+  display-name-spider_sword: Espada de Araña
+  display-name-demonic_sword: Espada Demoníaca
+  display-name-nature_sword: Espada de la Naturaleza
+  display-name-night_staff: Bastón Nocturno
+  display-name-staff_of_unholy_wisdom: Bastón de Sabiduría Profana
+  display-name-bermunde_hermit_staff: Bastón de Ermitaño Bermunde
+  display-name-northgate_guardian_staff: Bastón del Guardián de Northgate
+  display-name-golden_crook: Bastón Dorado
+  display-name-holy_celtic_staff: Bastón Céltico Sagrado
+  display-name-goblin_witch_staff: Bastón de Bruja Goblin
+  display-name-sagrada_winged_staff: Bastón Alado Sagrado
+  display-name-divine_staff: Bastón Divino
+  display-name-olwen_staff: Bastón de Olwen
+  display-name-lich_staff: Bastón de Lich
+  display-name-black_snake_staff: Bastón de Serpiente Negra
